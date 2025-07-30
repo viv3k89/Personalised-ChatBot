@@ -33,7 +33,8 @@ Edit
 ```bash
 git clone https://github.com/your-username/personalized-chatbot.git
 cd personalized-chatbot
-2. Install Dependencies
+
+**2. Install Dependencies**
 Ensure Python 3.8+ is installed. Then:
 
 bash
@@ -47,14 +48,14 @@ Copy
 Edit
 gradio
 requests
-3. Install and Run Ollama with Mistral
+**3. Install and Run Ollama with Mistral**
 Make sure you have Ollama installed and running. Then pull the Mistral model:
 
 bash
 Copy
 Edit
 ollama pull mistral
-4. Run the Chatbot
+**4. Run the Chatbot**
 bash
 Copy
 Edit
@@ -68,7 +69,7 @@ Provider: Ollama
 
 Inference: Local LLM execution via Ollama's API
 
-💻 Example
+**💻 Example**
 Once the app is running, you can start chatting:
 
 makefile
