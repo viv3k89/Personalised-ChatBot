@@ -1,0 +1,96 @@
+/* Force Light Mode */
+:root {
+    --background-color: #f9f9f9;
+    --text-color: #333;
+    --user-message-bg: #007bff;
+    --bot-message-bg: #e9ecef;
+    --input-bg: #ffffff;
+    --button-bg: #007bff;
+    --button-hover: #0056b3;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    text-align: center;
+}
+
+/* Chatbox Container */
+#chat-container {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+/* Message Styling */
+.message {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+/* Avatars */
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user-avatar {
+    background: url('user-avatar.png') no-repeat center;
+    background-size: cover;
+}
+
+.bot-avatar {
+    background: url('bot-avatar.png') no-repeat center;
+    background-size: cover;
+}
+
+/* Chat Bubbles */
+.user-message, .bot-message {
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 70%;
+    font-size: 1rem;
+}
+
+.user-message {
+    background-color: var(--user-message-bg);
+    color: white;
+    align-self: flex-end;
+}
+
+.bot-message {
+    background-color: var(--bot-message-bg);
+    color: black;
+}
+
+/* Chat Input */
+.chat-input {
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: var(--input-bg);
+}
+
+/* Send Button */
+#send-button {
+    background-color: var(--button-bg);
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    cursor: pointer;
+}
+
+#send-button:hover {
+    background-color: var(--button-hover);
+}

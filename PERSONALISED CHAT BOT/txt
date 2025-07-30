@@ -1,0 +1,47 @@
+run the project to get the deployment for personal use that will be gradio 
+
+
+if it has to be run by the group use ngrok http 7860
+and the link will be generated
+
+
+
+
+
+
+
+    "What are the different types of car engines?": "There are several types of car engines, including electric, gasoline, and diesel engines. Each type has its own advantages and disadvantages depending on usage and efficiency.",
+    "What is the difference between gasoline and diesel engines?": "Gasoline engines generally provide smoother performance, while diesel engines are more fuel-efficient and offer higher torque for heavy-duty applications.",
+    "How efficient are electric vehicles compared to gasoline cars?": "Electric vehicles (EVs) are highly efficient, often converting over 85% of electrical energy into motion, whereas gasoline cars typically convert only about 30% of fuel energy into usable power.",
+    "What factors affect car mileage?": "Car mileage depends on factors such as engine type, driving habits, terrain, tire pressure, fuel quality, aerodynamics, and maintenance.",
+    "What are the essential car maintenance tips?": "Regular servicing, tire pressure checks, battery maintenance, and keeping an eye on engine performance can enhance a car\u00e2\u20ac\u2122s lifespan and efficiency.",
+    "What are the benefits of an electric vehicle (EV)?": "EVs have zero emissions, lower maintenance costs, quieter operation, and instant torque for better acceleration. They also benefit from government incentives in many regions.",
+    "How often should I change my car's oil?": "For gasoline and diesel cars, oil changes are recommended every 5,000 to 7,500 miles. However, EVs do not require oil changes as they lack traditional combustion engines.",
+    "What safety features should I look for in a new car?": "Look for ABS, airbags, traction control, lane departure warning, adaptive cruise control, blind-spot monitoring, and a strong crash-test rating.",
+    "How do I check if a used car is in good condition?": "Check the car's history report, inspect the engine, test drive it, look for rust, and get a trusted mechanic to evaluate its condition.",
+    "What is the difference between an automatic and a manual transmission?": "Automatic transmissions shift gears automatically, making them easier to drive, while manual transmissions require the driver to change gears, often providing better control and fuel efficiency.",
+    "What are the advantages of all-wheel drive (AWD)?": "AWD improves traction in slippery conditions and enhances stability on rough terrain, making it ideal for SUVs and off-road vehicles.",
+    "What are the signs of a failing car battery?": "Signs include slow engine cranking, dim headlights, frequent jump-starts, and a battery warning light on the dashboard.",
+    "How do I increase my cars resale value?": "Maintain regular servicing, keep the car clean, fix minor damages, and keep detailed service records to ensure better resale value.",
+    "What should I check before buying a new car?": "Check the cars warranty, safety ratings, fuel economy, maintenance costs, and test drive it to ensure it meets your requirements.",
+    "How do I improve my cars fuel efficiency?": "Drive smoothly, avoid excessive idling, maintain proper tire pressure, and reduce unnecessary weight in the car.",
+    "What is the difference between front-wheel drive and rear-wheel drive?": "Front-wheel drive provides better traction in rain and snow, while rear-wheel drive offers better handling and acceleration, often preferred for performance vehicles.",
+    "What are some common car insurance types?": "Common types include liability insurance, collision insurance, comprehensive insurance, and uninsured motorist coverage.",
+    "Hello": "Hi there! How can I assist you today?",
+    "How are you?": "I'm just a chatbot, but I'm doing great! How about you?",
+    "What is your name?": "I'm your AI chatbot, here to assist you with yield prediction and general queries!",
+    "What can you do?": "I can answer questions about crop yield prediction, basic ML concepts, and also have general conversations.",
+    "Tell me a joke": "Sure! Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "Who created you?": "I was created by a dedicated developer working on AI-powered yield prediction!",
+    "What is AI?": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that can learn and solve problems.",
+    "Do you have emotions?": "I don't have emotions, but I'm here to help and make your experience enjoyable!",
+    "Can you help me with programming?": "Yes! I can answer programming-related questions, including Python, Java, and Machine Learning.",
+    "What is machine learning?": "Machine learning is a branch of AI that enables systems to learn from data and improve performance over time without being explicitly programmed.",
+    "What is the weather like today?": "I can't check real-time weather, but you can use APIs like OpenWeatherMap to get accurate weather updates!",
+    "Can you sing a song?": "I wish I could! But I can share some song lyrics if youd like!",
+    "Tell me a fun fact": "Did you know? Bananas are berries, but strawberries arent!",
+    "HIi": " Hello! It seems that the information you're looking for isn't available within my current database. However, I can help you find answers or guide you to resources where you might be able to find what you need. If it's a question about a specific topic, try rephrasing or providing more context so I can better understand and assist you. If you have a general inquiry, feel free to ask! I'm here to help!",
+    "do you know vivek": " I'm sorry for any confusion, but Vivek is a common name in several cultures, and it isn't associated with specific information in my current database. However, if you're referring to Vivek Oberoi, he is an Indian film actor known for his work in Bollywood. If you have specific questions about him or would like general information about the Indian film industry, I can certainly help with that!",
+    "who is the prime minister of india": " As of my last update, the Prime Minister of India is Narendra Modi. He has been in office since May 26, 2014. However, for the most accurate and up-to-date information, I recommend checking a reliable news source or official government website.",
+    "hi": " Hello! I'm here to help you with information or solve problems to the best of my ability. However, there might be some things that are beyond my current capabilities. If you have a specific question or problem, feel free to ask, and I will do my best to provide you with helpful information. If I can't answer your question directly, I may suggest resources or point you in the right direction for further research. Have a great day!",
+    "give me a code to print a sorted array in java": " Here is a simple Java code snippet that sorts an array using the built-in `Arrays` class and then prints it:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] arr = {3, 2, 1, 5, 4}; // Your array here\n\n        Arrays.sort(arr); // Sort the array\n\n        for (int i : arr) { // Print the sorted array\n            System.out.print(i + \" \");\n        }\n    }\n}\n```\n\nThis code creates an integer array, sorts it using the `Arrays.sort()` method, and then iterates through the sorted array to print each element. You can replace the numbers in the array with your own values."
